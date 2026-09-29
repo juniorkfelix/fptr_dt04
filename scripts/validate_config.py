@@ -5,13 +5,13 @@ import sys
 
 
 REQUIRED_PATHS = [
-    "config",
+    "core",
 ]
 
 
 REQUIRED_FILES = [
-    "config/core/roots.yml",
-    "config/core/templates.yml",
+    "core/roots.yml",
+    "core/templates.yml",
 ]
 
 
