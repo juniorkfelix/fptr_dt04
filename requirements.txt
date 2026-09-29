@@ -1,3 +1,4 @@
 # Flow Production Tracking Python API.
 
 PyYAML>=5.4
+shotgun-api3>=3.10.3
